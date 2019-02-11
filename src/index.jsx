@@ -19,9 +19,11 @@ class App extends Component {
   }
 }
 
+alert("funny");
 /****** DO NOT DELETE AFTER THIS LINE ******/
 
 ReactDOM.render(
   <App />,
   document.getElementById('root')
 );
+
